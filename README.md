@@ -1,6 +1,6 @@
 ## 📊 Dashboard de Matrículas Escolares - Região Metropolitana do Recife
 
-![Dashboard de Matrículas](/img/dashboard.png)
+![Dashboard de Matrículas](img/dashboard.png)
 
 ### 🏙️ Visão Geral
 
