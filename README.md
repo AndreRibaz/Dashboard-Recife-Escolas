@@ -1,7 +1,7 @@
 ## 📊 Dashboard de Matrículas Escolares - Região Metropolitana do Recife
 
-![Dashboard de Matrículas](img/dashboard.png)
-
+![Dashboard de Matrículas](img/dash.png)
+![Dashboard de Matrículas2](img/dash2.png)
 ### 🏙️ Visão Geral
 
 Este projeto apresenta um Painel desenvolvido no Power BI, com uma visão geral das **matrículas escolares na Região Metropolitana do Recife**.  
